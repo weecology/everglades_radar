@@ -4,6 +4,7 @@ channels:
 dependencies:
   - jupyter
   - arm_pyart
+  - cartopy
   - pip:
     - nexradaws
     - opencv-python
