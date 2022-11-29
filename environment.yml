@@ -1,0 +1,9 @@
+name: everglades_radar
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - arm_pyart
+  - pip:
+    - nexradaws
+    - opencv-python
